@@ -1,9 +1,9 @@
 {
   "name": "react-navigation-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A static navigation menu, built as a react component.",
   "main": "./lib/Menu.js",
-  "homepage": "https://thepetersweeney.com/react-navigation-menu",
+  "homepage": "https://thepetersweeney.com/projects/react-navigation-menu",
   "repository": {
     "type": "git",
     "url": "https://github.com/derrmru/react-navigation-menu.git"
