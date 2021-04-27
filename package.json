@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-menu",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A static navigation menu, built as a react component.",
   "main": "./lib/Menu.js",
   "homepage": "https://thepetersweeney.com/react-navigation-menu",

@@ -43,16 +43,16 @@ function App() {
 export default App;
 ```
 
-The navigation items are passed via props as an array. For principle items pass a tuple, 
+The navigation items are passed via props as an array. For principle items pass a tuple, with the following indexes:
 
-index 0: the name to appear in nav
-index 1 the url to link to
+1. index 0: the name to appear in nav
+2. index 1 the url to link to
 
 For a dropdown item with subitems, pass an array with the following:
 
-index 0: Your Nav Item Title
-index 1: 'dropdown'
-index 1: An array of tuples in the same format as principle items.
+1. index 0: Your Nav Item Title
+2. index 1: 'dropdown'
+3. index 2: An array of tuples in the same format as principle items.
 
 ## Dependencies
 
